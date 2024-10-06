@@ -21,6 +21,7 @@ h2 {
 
 span {
   color: var(--primary-color);
+  text-transform: uppercase;
 }
 
 .btn {
