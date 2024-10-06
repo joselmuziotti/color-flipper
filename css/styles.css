@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Poppins:wght@300;400;500;600;700&display=swap');
+@import url('/css/nav-style.css');
+@import url('/css/main.css');
+
+:root {
+  --primary-color: #007bff;
+  --secondary-color: #6c757d;
+  --font-color: #333;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-transform: capitalize;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #f2f2f2;
+}
